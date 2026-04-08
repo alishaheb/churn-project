@@ -202,17 +202,6 @@ python src/train.py
 uvicorn src.api:app --reload
 ```
 
----
-
-## 👤 Author
-
-Your Name
-LinkedIn: your-link
-GitHub: your-link
-
----
-
-
 ## 📊 Exploratory Data Analysis (EDA)
 
 The following visualizations highlight key patterns in customer churn behavior:
